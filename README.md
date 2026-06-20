@@ -29,7 +29,7 @@ forecasting — applied here to servo command signals instead.
 - 4×AA battery pack (separate supply for the servos)
 - USB-C → USB-A OTG adapter + A-to-B cable (for M2 Mac)
 - Pan-tilt structure: cardboard + tape
-- Build cost: ~310,000 UZS (~$25)
+- Build cost: \~310,000 UZS (\~$25)
 
 ## What I actually ran into
 - **Shipping is part of the build.** Ordered AA batteries, got AAA. Ordered an Arduino "with cable" — arrived without one. Bought a USB cable that turned out to be USB-A → USB-B and didn't fit my M2 Mac's USB-C port; needed an OTG adapter. Two return trips and a re-order before I could plug anything in.
