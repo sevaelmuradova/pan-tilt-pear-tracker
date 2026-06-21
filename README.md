@@ -3,7 +3,7 @@
 ![demo](demo.gif)
 
 A computer-vision pan-tilt camera rig — my first hardware build, end-to-end.
-Built in 7 days as an ML engineer at Uztelecom who had never touched a microcontroller.
+Built in 2 days as an ML engineer at Uztelecom who had never touched a microcontroller.
 
 ## What it does
 A webcam detects a green ceramic pear in real time using OpenCV color segmentation
